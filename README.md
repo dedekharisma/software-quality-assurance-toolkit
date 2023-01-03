@@ -15,7 +15,7 @@ This repository contains a list of Chrome extensions that can support software q
   <li><a href="https://chrome.google.com/webstore/detail/fake-data-a-form-filler-y/gchcfdihakkhjgfmokemfeembfokkajj">Fake Data Filler</a>: Fake Data will help you insert random values in any form field. Generate random names, emails, addresses, phone numbers and many more types of data.</li>
   <li><a href="https://chrome.google.com/webstore/detail/exploratory-testing-chrom/khigmghadjljgjpamimgjjmpmlbgmekj">Exploratory Testing</a>: A Chrome extension designed for making web exploratory testing easier.</li>
   <li><a href="https://chrome.google.com/webstore/detail/link-checker/olcpkmmoifipcklgnphbhdhbpfniijmb">Link Checker</a>: This extension runs through links on the current pages and checks whether they work.</li>
-  <li><a href="https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh">WAVE Evaluation Tool</a>: Evaluate web accessibility within your browser.</li>
+  <li><a href="https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh">Web Accessibility Evaluation Tool (WAVE)</a>: Evaluate web accessibility within your browser.</li>
   <li><a href="https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en-GB">Check My Links</a>: Check My Links is a link checker that crawls through your webpage and looks for broken links.</li>
   <li><a href="https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en">Lorem Ipsum Generator (Default Text)</a>: Provides an elegant and quick way to create default text or generate Lorem Ipsum. Optimized for quick usage, but it can customized.</li>
   <li><a href="https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en">EditThisCookie</a>: EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!</li>
@@ -24,6 +24,10 @@ This repository contains a list of Chrome extensions that can support software q
   <li><a href="https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo">Postman Interceptor</a>: Sends requests fired through the Postman chrome app.</li>
   <li><a href="https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en">Awesome Screenshot and Screen Recorder</a>: The best screen recorder and screen capture & screenshot tool to record screen.</li>
   <li><a href="https://chrome.google.com/webstore/detail/page-load-time/fploionmjgeclbkemipmkogoaohcdbig?hl=en">Page load time</a>: Displays page load time in the toolbar</li>
+  <li><a href="https://chrome.google.com/webstore/detail/ghost-inspector/blpcfgokakmgnkcojhhkbfbldkacnbeo">Ghost Inspector</a>: Allows you to create and run automated UI tests for your web applications.</li>  
+  <li><a href="https://chrome.google.com/webstore/detail/webpagetest/mttenoljmdbjhjlcgfnhbclghljfhbmd">WebPageTest</a>: A tool for testing the performance of your web pages and identifying potential bottlenecks.</li>
+  <li><a href="https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd">Axe</a>: An accessibility engine that helps you identify and fix accessibility issues on your web pages.</li>  
+  <li><a href="https://chrome.google.com/webstore/detail/pagespeed-insights/cdjggjbbgkbfcjhddkjpahddgoflcfhg">PageSpeed Insights</a>: A tool for analyzing the performance of your web pages and providing optimization suggestions.</li>    
   
 <h2>Bonus</h2>
   
