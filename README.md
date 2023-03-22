@@ -29,6 +29,8 @@ This repository contains a list of Chrome extensions that can support software q
   <li><a href="https://chrome.google.com/webstore/detail/pagespeed-insights/cdjggjbbgkbfcjhddkjpahddgoflcfhg">PageSpeed Insights</a>: A tool for analyzing the performance of your web pages and providing optimization suggestions.</li>    
     <li><a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk">Lighthouse</a>: Audits the performance, accessibility, and SEO of your web pages.</li>
       <li><a href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop">Postman</a>: Allows you to send HTTP requests and view responses, making it easier to test and debug API's.</li>
+<li><a href="https://chrome.google.com/webstore/detail/selectorshub/ndgimibanhlabgdgjcpbbndiehljcpfh?hl=en">SelectorsHub</a>: SelectorsHub is a xpath plugin and cssSelector plugin.
+It can be used as smart editor to write and verify xpath, cssSelector, Playwright selectors, jQuery and JS Path.</li>
   
 <h2>🎉 Bonus</h2>
   
