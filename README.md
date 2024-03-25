@@ -1,6 +1,6 @@
-<h1>Quality Assurance Chrome Extensions</h1>
+<h1>Quality Assurance Chrome Extensions and Resources</h1>
 
-This repository contains a list of Chrome extensions that can support software quality assurance.
+This repository contains a list of Chrome extensions and Resources that can support software quality assurance.
 
 <h2>📚 Extension List</h2>
 
@@ -31,11 +31,26 @@ This repository contains a list of Chrome extensions that can support software q
       <li><a href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop">Postman</a>: Allows you to send HTTP requests and view responses, making it easier to test and debug API's.</li>
 <li><a href="https://chrome.google.com/webstore/detail/selectorshub/ndgimibanhlabgdgjcpbbndiehljcpfh?hl=en">SelectorsHub</a>: SelectorsHub is a xpath plugin and cssSelector plugin.
 It can be used as smart editor to write and verify xpath, cssSelector, Playwright selectors, jQuery and JS Path.</li>
-  
-<h2>🎉 Bonus</h2>
+
+
+<h2>Website</h2>
   
   <li><a href="https://generator.email/">Email Generator</a>: Create temporary email address</li>
   <li><a href="https://randommer.io/Phone">Fake Phone Number generator</a>: You are using this free online tool to generate random phone numbers. You can use these when you want to promote something without using real data. You can also use these to give an example for your clients or a mockup for your users.</li>
+  <li><a href="https://www.dummytextgenerator.com/">Dummy Text Generator</a>: Dummy Text Generator for Web Designers and your general typesettings needs!</li>
+
+<h2>Github</h2>
+
+   <li><a href="https://gist.github.com/theodorosploumis/fd4086ee58369b68aea6b0782dc96a2e/">Network throttling profiles</a>: Web Development custom network throttling profiles</li>
+   <li><a href="https://github.com/abhivaikar/howtheytest">How They Test</a>: A collection of public resources about how software companies test their software</li>
+   <li><a href="https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters/">Free Learning Resources For Software Testers</a>:A New Project to create a set of links to free Online Learning Resources for New and Experienced Software Testers.</li>
+   <li><a href="https://github.com/minimaxir/big-list-of-naughty-strings/">Naughty Strings</a>: The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.</li>
+   <li><a href="https://github.com/akikoo/accessibility-testing-tools/">Accessibility testing tools</a>: A collection of useful tools for accessibility testing and debugging in the browser, online and desktop</li>
+   <li><a href="https://github.com/karatelabs/karate/">Karate Labs</a>: Test Automation Made Simple</li>
+   <li><a href="https://github.com/TheJambo/awesome-testing/">Awesome Testing</a>: A curated list of testing resources</li>
+   <li><a href="https://github.com/automationhacks/testing-checklists/">Testing Checklists</a>: A curation of different checklists for testing and automation</li>
+   <li><a href="https://github.com/mentebinaria/retoolkit/">ReToolkit</a>: Reverse Engineer's Toolkit</li>
+   <li><a href="https://github.com/jlevy/the-art-of-command-line/">The Art of Command Line</a>: Master the command line, in one page</li>
 
 </br> 
 I hope this repository is helpful for you! If you have any other questions, feel free to open an issue or submit a pull request.
