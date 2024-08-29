@@ -49,5 +49,5 @@ It can be used as smart editor to write and verify xpath, cssSelector, Playwrigh
   <li><a href="https://generator.email/">Email Generator</a>: Create temporary email address</li>
   <li><a href="https://randommer.io/Phone">Fake Phone Number generator</a>: You are using this free online tool to generate random phone numbers. You can use these when you want to promote something without using real data. You can also use these to give an example for your clients or a mockup for your users.</li>
   <li><a href="https://www.dummytextgenerator.com/">Dummy Text Generator</a>: Dummy Text Generator for Web Designers and your general typesettings needs!</li>
-
+</br>
   I hope this repository is helpful for you! If you have any other questions, feel free to open an issue or submit a pull request.
