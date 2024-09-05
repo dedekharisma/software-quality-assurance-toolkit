@@ -9,7 +9,7 @@ Welcome to the **Software Quality Assurance Toolkit** repository! This repositor
 4. [License](#license)
 
 ## Contributions
-If we are missing some awesome Chrome extensions, websites, or testing tools that you already know, follow our <a href="https://github.com/dedekharisma/software-quality-assurance-toolkit/blob/main/contributing.md">contribution guide</href> and make PR.
+If we are missing some awesome Chrome extensions, websites, or testing tools that you already know, follow our <a href="https://github.com/dedekharisma/software-quality-assurance-toolkit/blob/main/contributing.md">contribution guide</a> and make PR.
 
 ## Chrome Extensions
 | Name | Description |
