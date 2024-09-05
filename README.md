@@ -51,3 +51,12 @@ It can be used as smart editor to write and verify xpath, cssSelector, Playwrigh
   <li><a href="https://www.dummytextgenerator.com/">Dummy Text Generator</a>: Dummy Text Generator for Web Designers and your general typesettings needs!</li>
 </br>
   I hope this repository is helpful for you! If you have any other questions, feel free to open an issue or submit a pull request.
+
+  ## Sample Table
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data 1   | Data 2   |
+| Row 2    | Data 3   | Data 4   |
+| Row 3    | Data 5   | Data 6   |
+
