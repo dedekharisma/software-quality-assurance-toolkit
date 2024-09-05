@@ -60,3 +60,12 @@ It can be used as a smart editor to write and verify xpath, CSS selector, Playwr
 | <a href="https://randommer.io/Phone">Fake Phone Number generator</a>    | You are using this free online tool to generate random phone numbers. You can use these when you want to promote something without using real data. You can also use these to give an example for your clients or a mockup for your users.   |
 | <a href="https://www.dummytextgenerator.com/">Dummy Text Generator</a>    | Dummy Text Generator for Web Designers and your general typesettings needs!   |
 
+## Sample Table
+
+| Column 1 | Column 2 | Column 3 |
+|:--------:|:--------:|:--------:|
+|  <a href="https://generator.email/">Email Generator</a>   |  Create temporary email address  |
+|  <a href="https://randommer.io/Phone">Fake Phone Number generator</a>   |  You are using this free online tool to generate random phone numbers. You can use these when you want to promote something without using real data. You can also use these to give an example for your clients or a mockup for your users.  |
+|  <a href="https://www.dummytextgenerator.com/">Dummy Text Generator</a>   |  Dummy Text Generator for Web Designers and your general typesettings needs!  |
+
+
