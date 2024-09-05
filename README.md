@@ -1,6 +1,6 @@
 # Software Quality Assurance Toolkit
 
-Welcome to the **Software Quality Assurance Toolkit** repository! This repository contains tools and resources designed to enhance software quality through automation and best practices.
+Welcome to the **Software Quality Assurance Toolkit** repository! This repository contains tools and resources designed to enhance software quality.
 
 <h2>📚 Extension List</h2>
 
