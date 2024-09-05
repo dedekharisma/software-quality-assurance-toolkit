@@ -4,7 +4,7 @@ Welcome to the **Software Quality Assurance Toolkit** repository! This repositor
 
 ## Table of Contents
 1. [Chrome Extensions](#chrome-extensions)
-2. [Website & Github](#website-&-github)
+2. [Website & Github](#website--github)
 3. [Contributing](#contributions)
 4. [License](#license)
 
