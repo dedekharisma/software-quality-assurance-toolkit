@@ -3,8 +3,8 @@
 Welcome to the **Software Quality Assurance Toolkit** repository! This repository contains tools and resources designed to enhance software quality.
 
 ## Table of Contents
-1. [Chrome Extensions](#Chrome Extensions)
-2. [Website & Github](#Website & Github)
+1. [Chrome Extensions](#chrome-extensions)
+2. [Website & Github](#website-&-github)
 3. [Contributing](#contributions)
 4. [License](#license)
 
@@ -12,12 +12,11 @@ Welcome to the **Software Quality Assurance Toolkit** repository! This repositor
 If we are missing some awesome Chrome extensions, websites, or testing tools that you already know, follow our contribution guide and make PR.
 
 ## Chrome Extensions
-
 | Name | Description |
 |--------|--------|
 |<a href="https://chrome.google.com/webstore/detail/fake-data-a-form-filler-y/gchcfdihakkhjgfmokemfeembfokkajj">Fake Data Filler</a>    |Fake Data will help you insert random values in any form field. Generate random names, emails, addresses, phone numbers, and many more types of data.   |
 |<a href="https://chrome.google.com/webstore/detail/bug-magnet/ocbgbejhmeapiniekihjlckojhgjmfbo">Bug Magnet</a>    |Automatically generates random input data to help test the robustness of your software.   |
-|<a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm">Web Developer</a>    |<a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm">Web Developer</a>   |
+|<a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm">Web Developer</a>    |Adds a toolbar to your browser with a variety of tools for testing and debugging web pages   |
 |<a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg">Wappalyzer</a>    |Detects and displays the technologies used on websites, helping to identify compatibility issues.   |
 |<a href="https://chrome.google.com/webstore/detail/link-checker/olcpkmmoifipcklgnphbhdhbpfniijmb">Link Checker</a>    |This extension runs through links on the current pages and checks whether they work.   |
 |<a href="https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en">Lorem Ipsum Generator (Default Text)</a>    |Provides an elegant and quick way to create default text or generate Lorem Ipsum. Optimized for quick usage, but it can customized.   |
@@ -42,7 +41,6 @@ If we are missing some awesome Chrome extensions, websites, or testing tools tha
 |<a href="https://chrome.google.com/webstore/detail/selectorshub/ndgimibanhlabgdgjcpbbndiehljcpfh?hl=en">SelectorsHub</a>    |SelectorsHub is a xpath plugin and cssSelector plugin. It can be used as a smart editor to write and verify xpath, CSS selector, Playwright selectors, jQuery, and JS Path.   |
 
 ## Website & Github
-
 | Name | Description |
 |--------|--------|
 |<a href="https://generator.email/">Email Generator</a>   |Create temporary email address  |
