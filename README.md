@@ -56,6 +56,7 @@ If we are missing some awesome Chrome extensions, websites, or testing tools tha
 |<a href="https://github.com/automationhacks/testing-checklists/">Testing Checklists</a>    |A curation of different checklists for testing and automation   |
 |<a href="https://github.com/mentebinaria/retoolkit/">ReToolkit</a>    |Reverse Engineer's Toolkit   |
 |<a href="https://github.com/jlevy/the-art-of-command-line/">The Art of Command Line</a>    |Master the command line, in one page   |
+|<a href="https://github.com/ZoranPandovski/awesome-testing-tools">Awesome Testing Tools</a>    |A curated list of awesome testing tools   |
 
 I hope this repository is helpful for you! If you have any other questions, feel free to open an issue or submit a pull request.
 
