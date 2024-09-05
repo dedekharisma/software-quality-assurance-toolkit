@@ -4,7 +4,7 @@ Welcome to the **Software Quality Assurance Toolkit** repository! This repositor
 
 <h2>📚 Extension List</h2>
 
-  <li><a href="https://chrome.google.com/webstore/detail/fake-data-a-form-filler-y/gchcfdihakkhjgfmokemfeembfokkajj">Fake Data Filler</a>: Fake Data will help you insert random values in any form field. Generate random names, emails, addresses, phone numbers and many more types of data.</li>
+  <li><a href="https://chrome.google.com/webstore/detail/fake-data-a-form-filler-y/gchcfdihakkhjgfmokemfeembfokkajj">Fake Data Filler</a>: Fake Data will help you insert random values in any form field. Generate random names, emails, addresses, phone numbers, and many more types of data.</li>
   <li><a href="https://chrome.google.com/webstore/detail/bug-magnet/ocbgbejhmeapiniekihjlckojhgjmfbo">Bug Magnet</a>: Automatically generates random input data to help test the robustness of your software.</li>
     <li><a href="https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm">Web Developer</a>: Adds a toolbar to your browser with a variety of tools for testing and debugging web pages.</li>
   <li><a href="https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg">Wappalyzer</a>: Detects and displays the technologies used on websites, helping to identify compatibility issues.</li>
@@ -29,14 +29,14 @@ Welcome to the **Software Quality Assurance Toolkit** repository! This repositor
     <li><a href="https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk">Lighthouse</a>: Audits the performance, accessibility, and SEO of your web pages.</li>
       <li><a href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop">Postman</a>: Allows you to send HTTP requests and view responses, making it easier to test and debug API's.</li>
 <li><a href="https://chrome.google.com/webstore/detail/selectorshub/ndgimibanhlabgdgjcpbbndiehljcpfh?hl=en">SelectorsHub</a>: SelectorsHub is a xpath plugin and cssSelector plugin.
-It can be used as smart editor to write and verify xpath, cssSelector, Playwright selectors, jQuery and JS Path.</li>
+It can be used as a smart editor to write and verify xpath, CSS selector, Playwright selectors, jQuery, and JS Path.</li>
 
 <h2>Github</h2>
 
    <li><a href="https://gist.github.com/theodorosploumis/fd4086ee58369b68aea6b0782dc96a2e/">Network throttling profiles</a>: Web Development custom network throttling profiles</li>
    <li><a href="https://github.com/abhivaikar/howtheytest">How They Test</a>: A collection of public resources about how software companies test their software</li>
-   <li><a href="https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters/">Free Learning Resources For Software Testers</a>:A New Project to create a set of links to free Online Learning Resources for New and Experienced Software Testers.</li>
-   <li><a href="https://github.com/minimaxir/big-list-of-naughty-strings/">Naughty Strings</a>: The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.</li>
+   <li><a href="https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters/">Free Learning Resources For Software Testers</a>: A New Project to create a set of links to free Online Learning Resources for New and Experienced Software Testers.</li>
+   <li><a href="https://github.com/minimaxir/big-list-of-naughty-strings/">Naughty Strings</a>: The Big List of Naughty Strings is a list of strings that have a high probability of causing issues when used as user-input data.</li>
    <li><a href="https://github.com/akikoo/accessibility-testing-tools/">Accessibility testing tools</a>: A collection of useful tools for accessibility testing and debugging in the browser, online and desktop</li>
    <li><a href="https://github.com/karatelabs/karate/">Karate Labs</a>: Test Automation Made Simple</li>
    <li><a href="https://github.com/TheJambo/awesome-testing/">Awesome Testing</a>: A curated list of testing resources</li>
@@ -56,7 +56,7 @@ It can be used as smart editor to write and verify xpath, cssSelector, Playwrigh
 
 | Name | URL |
 |----------|----------|
-| Row 1    | Data 1   |
-| Row 2    | Data 3   |
-| Row 3    | Data 5   |
+| <a href="https://generator.email/">Email Generator</a>    | Create temporary email address   |
+| <a href="https://randommer.io/Phone">Fake Phone Number generator</a>    | You are using this free online tool to generate random phone numbers. You can use these when you want to promote something without using real data. You can also use these to give an example for your clients or a mockup for your users.   |
+| <a href="https://www.dummytextgenerator.com/">Dummy Text Generator</a>    | Dummy Text Generator for Web Designers and your general typesettings needs!   |
 
