@@ -1,18 +1,17 @@
 # Software Quality Assurance Toolkit
 
-Welcome to the **Software Quality Assurance Toolkit** repository! This repository contains tools and resources designed to enhance software quality.
+Welcome to the **Software Quality Assurance Toolkit** repository! 
+This repository contains a collection of Chrome extensions and websites used by the Mario SQA team. 
 
 ## Table of Contents
 1. [Chrome Extensions](#chrome-extensions)
 2. [Website & Github](#website--github)
 3. [Productivity](#productivity)
-4. [Contributing](#contributions)
-5. [License](#license)
-
-## Contributions
-If we are missing some awesome Chrome extensions, websites, or testing tools that you already know, follow our <a href="https://github.com/dedekharisma/software-quality-assurance-toolkit/blob/main/contributing.md">contribution guide</a> and make PR.
+4. [Contributing](#contributing)
 
 ## Chrome Extensions
+To install the necessary Chrome extensions, follow the installation steps provided in the Chrome Extensions section.
+
 | Name | Description |
 |--------|--------|
 |<a href="https://chrome.google.com/webstore/detail/fake-data-a-form-filler-y/gchcfdihakkhjgfmokemfeembfokkajj">Fake Data Filler</a>    |Fake Data will help you insert random values in any form field. Generate random names, emails, addresses, phone numbers, and many more types of data.   |
@@ -41,7 +40,11 @@ If we are missing some awesome Chrome extensions, websites, or testing tools tha
 |<a href="https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop">Postman</a>    |Allows you to send HTTP requests and view responses, making it easier to test and debug API's.   |
 |<a href="https://chrome.google.com/webstore/detail/selectorshub/ndgimibanhlabgdgjcpbbndiehljcpfh?hl=en">SelectorsHub</a>    |SelectorsHub is a xpath plugin and cssSelector plugin. It can be used as a smart editor to write and verify xpath, CSS selector, Playwright selectors, jQuery, and JS Path.   |
 
+
+
 ## Website & Github
+To use the tools and websites listed in this repository, follow the usage instructions provided in the respective sections.
+
 | Name | Description |
 |--------|--------|
 |<a href="https://generator.email/">Email Generator</a>   |Create temporary email address  |
@@ -63,6 +66,9 @@ If we are missing some awesome Chrome extensions, websites, or testing tools tha
 |<a href="https://www.tango.us/">Tango</a>   |Create software training walkthroughs in minutes  |
 |<a href="https://www.loom.com/">Loom</a>   |Easily record and share AI-powered video messages with your teammates and customers to supercharge productivity  |
 
+
+
+
 ## Productivity
 | Name | Description |
 |--------|--------|
@@ -71,7 +77,15 @@ If we are missing some awesome Chrome extensions, websites, or testing tools tha
 |<a href="https://generator.email/">Email Generator</a>   |Create temporary email address  |
 |<a href="https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen">Grammarly: Grammar Checker and Writing App</a>   |Improve your writing with Grammarly's communication assistance—including spell check, grammar check, punctuation check, and more.  |
 
-I hope this repository is helpful for you! If you have any other questions, feel free to open an issue or submit a pull request.
+## Contributing
 
-## License
-This project is licensed under the MIT License.
+We welcome contributions from the team to improve and expand this repository. follow our <a href="https://github.com/dedekharisma/software-quality-assurance-toolkit/blob/main/contributing.md">contribution guide</a> and please follow the guidelines below to contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature/YourFeature`).
+6. Open a pull request.
+
+We hope this repository is helpful for you! If you have any other questions, feel free to open an issue or submit a pull request.
