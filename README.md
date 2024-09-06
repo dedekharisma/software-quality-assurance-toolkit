@@ -57,6 +57,18 @@ If we are missing some awesome Chrome extensions, websites, or testing tools tha
 |<a href="https://github.com/mentebinaria/retoolkit/">ReToolkit</a>    |Reverse Engineer's Toolkit   |
 |<a href="https://github.com/jlevy/the-art-of-command-line/">The Art of Command Line</a>    |Master the command line, in one page   |
 |<a href="https://github.com/ZoranPandovski/awesome-testing-tools">Awesome Testing Tools</a>    |A curated list of awesome testing tools   |
+|<a href="https://oinam.github.io/entities/">Character Entities for HTML, CSS and Javascript</a>   |Character Entities for HTML, CSS and Javascript  |
+|<a href="https://html.spec.whatwg.org/multipage/named-characters.html">HTML Living Standard</a>   |HTML Living Standard  |
+|<a href="https://www.tango.us/">Tango</a>   |Create software training walkthroughs in minutes  |
+|<a href="https://www.loom.com/">Loom</a>   |Easily record and share AI-powered video messages with your teammates and customers to supercharge productivity  |
+
+## Productivity
+| Name | Description |
+|--------|--------|
+|<a href="https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall">One Tab</a>   |Whenever you find yourself with too many tabs, click the OneTab icon to convert all of your tabs into a list  |
+|<a href="https://chrome.google.com/webstore/detail/marinara-pomodoro%C2%AE-assist/lojgmehidjdhhbmpjfamhpkpodfcodef/related">Marinara: Pomodoro® Assistant</a>   |Pomodoro® time management assistant  |
+|<a href="https://generator.email/">Email Generator</a>   |Create temporary email address  |
+|<a href="https://chrome.google.com/webstore/detail/grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen">Grammarly: Grammar Checker and Writing App</a>   |Improve your writing with Grammarly's communication assistance—including spell check, grammar check, punctuation check, and more.  |
 
 I hope this repository is helpful for you! If you have any other questions, feel free to open an issue or submit a pull request.
 
