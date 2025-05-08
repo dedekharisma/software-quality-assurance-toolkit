@@ -64,7 +64,7 @@ To use the tools and websites listed in this repository, follow the usage instru
 |<a href="https://oinam.github.io/entities/">Character Entities for HTML, CSS and Javascript</a>   |Character Entities for HTML, CSS and Javascript  |
 |<a href="https://html.spec.whatwg.org/multipage/named-characters.html">HTML Living Standard</a>   |HTML Living Standard  |
 |<a href="https://www.tango.us/">Tango</a>   |Create software training walkthroughs in minutes  |
-|<a href="https://github.com/CapSoftware/Cap">Loom</a>   |The open source Loom alternative.  |
+|<a href="https://github.com/CapSoftware/Cap">Capso</a>   |The open source Loom alternative.  |
 
 
 
